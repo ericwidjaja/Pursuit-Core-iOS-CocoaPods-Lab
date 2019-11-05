@@ -15,6 +15,7 @@
 		DF2E8919237212C3007D1685 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF2E8918237212C3007D1685 /* Assets.xcassets */; };
 		DF2E891C237212C3007D1685 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF2E891A237212C3007D1685 /* LaunchScreen.storyboard */; };
 		DF2E8927237212C3007D1685 /* Pursuit_Core_iOS_CocoaPods_LabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2E8926237212C3007D1685 /* Pursuit_Core_iOS_CocoaPods_LabTests.swift */; };
+		DF2E8934237215D4007D1685 /* RandomUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF2E8933237215D4007D1685 /* RandomUser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		DF2E8922237212C3007D1685 /* Pursuit-Core-iOS-CocoaPods-LabTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pursuit-Core-iOS-CocoaPods-LabTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF2E8926237212C3007D1685 /* Pursuit_Core_iOS_CocoaPods_LabTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pursuit_Core_iOS_CocoaPods_LabTests.swift; sourceTree = "<group>"; };
 		DF2E8928237212C3007D1685 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF2E8933237215D4007D1685 /* RandomUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		DF2E890B237212C0007D1685 /* Pursuit-Core-iOS-CocoaPods-Lab */ = {
 			isa = PBXGroup;
 			children = (
+				DF2E8933237215D4007D1685 /* RandomUser.swift */,
 				DF2E890C237212C0007D1685 /* AppDelegate.swift */,
 				DF2E890E237212C0007D1685 /* SceneDelegate.swift */,
 				DF2E8910237212C0007D1685 /* ViewController.swift */,
@@ -207,6 +210,7 @@
 				DF2E8917237212C0007D1685 /* Pursuit_Core_iOS_CocoaPods_Lab.xcdatamodeld in Sources */,
 				DF2E890D237212C0007D1685 /* AppDelegate.swift in Sources */,
 				DF2E890F237212C0007D1685 /* SceneDelegate.swift in Sources */,
+				DF2E8934237215D4007D1685 /* RandomUser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
